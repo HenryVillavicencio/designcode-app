@@ -3,6 +3,7 @@
 ---
 
 Aplicación que muestra cursos en línea
+---
 ![](designcode-app.gif)
 
 ## Contenido
