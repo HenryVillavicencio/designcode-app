@@ -19,7 +19,6 @@ class SectionScreen extends React.Component {
   render() {
     const { navigation } = this.props;
     const section = navigation.getParam("section");
-    console.log(section.image.url);
 
     return (
       <ScrollView>
