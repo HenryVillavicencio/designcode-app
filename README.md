@@ -1,7 +1,5 @@
 # Design code App
 
----
-
 Application that shows a catalog of online courses
 
 ---
