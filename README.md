@@ -2,18 +2,20 @@
 
 ---
 
-Aplicación que muestra cursos en línea
+Application that shows a catalog of online courses
+
 ---
 ![](designcode-app.gif)
 
-## Contenido
+## Content
 
-- Navegación entre pantallas
-- Animaciones con React Native
-- Contenido administrado en contentful
-- Obtención de datos con Apollo GraphQL
 
-## ¿Cómo probar?
+- React Navigation
+- React Native animations
+- Contentful
+- Apollo GraphQL
+
+## How to test in your local computer?
 
 ```bash
 git clone https://github.com/HenryVillavicencio/designcode-app.git
